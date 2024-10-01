@@ -1,0 +1,8 @@
+Users Database + SSH:
+
+Sshadmin 192.168.0.1
+55Hadm!n2020
+
+$cisco!!CON*
+$cisco!!VTY*
+$cisco!PRIV* ------- Mode Priviligé
